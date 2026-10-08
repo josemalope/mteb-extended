@@ -1,0 +1,14 @@
+.gitignore
+  h_e077ad59e351dd 164-165
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "aec43f0e1e0c76cea8378997f1940de63e5e225e",
+  "prompts": {},
+  "humans": {
+    "h_e077ad59e351dd": {
+      "author": "Jose Manuel Arias Lopez <josemal@ext.inditex.com>"
+    }
+  }
+}
